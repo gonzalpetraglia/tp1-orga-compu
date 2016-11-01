@@ -1,0 +1,32 @@
+#SRA = 16
+#9 floats (4bytes) = 4*9 = 36
+#4 ints (4bytes) = 4*4 = 16 
+#puntero 4
+
+SRA
+ra		80
+gp		76
+fp		72
+-----------
+LTA
+cr		68 
+ci		64
+zr		60
+zi		56
+sr		52
+si		48
+absz	44
+x		40
+y		36
+c		32
+res		28
+cpr		24
+cpi		20
+file	16
+-----------
+ABA
+a3		12
+a2		8
+a1		4
+a0		0
+
